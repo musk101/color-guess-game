@@ -1,0 +1,19 @@
+body
+{
+    background-color: black;
+}
+.square
+{
+    width: 30%;
+    background-color: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    align-items: center;
+}
+#container
+{
+    max-width: 30%;
+    text-align: center;
+    margin: 0 auto;
+}
